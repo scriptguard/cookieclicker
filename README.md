@@ -4,7 +4,7 @@
 
 The original game can be found at http://orteil.dashnet.org/cookieclicker/
 
-This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from https://scriptguard.github.io/cookieclicker/ if you cannot "educate" yourself on the original URL. also progress wont save if you refresh.
+This mirror for, errrr, like, educational purpose, either to download for your own offline education or to be played online from https://scriptguard.github.io/cookieclicker/ if you cannot "educate" yourself on the original URL.
 
 ### How to update
 
